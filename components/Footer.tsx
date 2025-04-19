@@ -27,7 +27,7 @@ function Footer() {
           Let’s connect to discuss how I can help you accomplish your vision
           effectively.
         </p>
-        <a href="mailto:suyash.2023ug1100@iiitranchi.ac.in">
+        <a href="mailto:trosecoder@gmail.com">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -38,7 +38,7 @@ function Footer() {
 
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2025 Suyash Pandey
+          Copyright © 2025 Chroma
         </p>
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((profile) => (
