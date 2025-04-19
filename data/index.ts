@@ -215,9 +215,4 @@ export const socialMedia = [
     name: "github",
     img: "/git.svg",
   },
-  {
-    id: 2,
-    name: "linkedin",
-    img: "/link.svg",
-  },
 ];
