@@ -37,8 +37,7 @@ const Hero = () => {
           />
 
           <span className="text-center md:tracking-wider mb-4 text-sm md:text-xl">
-            Hello World!👋 Suyash here, a Next.js and MERN Stack Developer based
-            in India.
+            Hello World! 👋, I'm Chroma!
           </span>
 
           <a href="#projects">
