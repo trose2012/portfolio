@@ -3,9 +3,9 @@ import MagicButton from "./MagicButton";
 import { FaLocationArrow } from "react-icons/fa6";
 import { socialMedia } from "@/data";
 
-const githubProfileLink = "https://github.com/EcstaticFly";
+const githubProfileLink = "https://github.com/trose2012";
 const linkedinProfileLink =
-  "https://www.linkedin.com/in/suyash-pandey-91bb40290/";
+  "";
 
 function Footer() {
   const handleLinkClick = ({ id }: { id: number }) => {
